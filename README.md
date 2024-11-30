@@ -1,1 +1,0 @@
-# gittea.github.io
